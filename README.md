@@ -1,11 +1,13 @@
 <h1 align="center">Hi,I'm Astha Singh👋 </h1>
 <h3 align="center">A passionate Web Developer</h3>
+<img align="Right" width="150" alt="Screenshot 2023-10-30 223833" src="https://github.com/Prolifictalen/Prolifictalen/assets/95242101/6c58cc04-ff85-494d-8147-a801c69ede80">
 
 -  🚀 Exploring new Possibilites 🚀
 -  🐾I’m currently working on **Web development**
 
 - 📧 Email: **prolific.talen.a@gmail.com**
 - <p>Let's Connect and Collaborate✌️</p>
+
 
 <h3 align="Right">Connect with me:</h3>
 <p align="Right">
