@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react Nodejs**
 
-- 📫 How to reach me **prolific.talen.a@gmail.com**
+- 📫 Email  **prolific.talen.a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
