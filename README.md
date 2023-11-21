@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm Astha Singh👋 </h1>
-<h3 align="center">A passionate WebDeveloper</h3>
+<h3 align="center">A WebDeveloper</h3>
 <img align="Right" width="140" alt="Screenshot 2023-10-30 223833" src="https://github.com/Prolifictalen/Prolifictalen/assets/95242101/6c58cc04-ff85-494d-8147-a801c69ede80">
 
 -  🚀 Exploring new Possibilites 🚀
